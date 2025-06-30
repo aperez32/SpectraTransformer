@@ -9,5 +9,5 @@ Usage:
 
 
 Work in progress:
--Implementing other evaluation metrics in eval.py
--Beam search
+1. Implementing other evaluation metrics in eval.py
+2. Beam search
