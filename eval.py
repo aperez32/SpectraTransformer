@@ -22,7 +22,7 @@ d_model = 320
 num_layers = 6 
 num_heads = 5 
 drop_out=0.2
-pad_idx = dataset.symbol_to_idx['[nop]']  # i.e., pad_idx = 31
+pad_idx = dataset.symbol_to_idx['[nop]']  
 save_every = 5
 
 ####### Eval params #########
